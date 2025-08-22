@@ -1,12 +1,5 @@
 # Resumen de Resultados - Programación Paralela con OpenMP
 
-## Estado del Proyecto
-
-**OpenMP instalado y funcionando correctamente en macOS**
-**Todos los ejercicios compilados exitosamente**
-**Pruebas de rendimiento completadas**
-**Análisis de speedup y eficiencia realizado**
-
 ## Ejercicios Implementados
 
 ### Ejercicio 1: Suma de Arreglo Grande
@@ -104,13 +97,6 @@ g++ -std=c++17 -Wall -Wextra -O2 \
 ## Repositorio del Proyecto
 
 **URL**: https://github.com/idkwhattoputkk/CL05_20082025_JOEMUG.git
-
-## Archivos Generados
-
-- `resultados/ejercicio1_results.csv` - Resultados detallados ejercicio 1
-- `resultados/ejercicio2_results.csv` - Resultados detallados ejercicio 2
-- `resultados/ejercicio3_execution.log` - Log de ejecución ejercicio 3
-- `resultados/reporte_rendimiento_*.md` - Reporte completo automático
 
 ## Próximos Pasos
 
